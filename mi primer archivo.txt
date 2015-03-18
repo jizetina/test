@@ -5,5 +5,4 @@ modificación desde el escritorio
 modificación desde github
 
 Sacando una nueva versión
-
-
+Terminada la versión
